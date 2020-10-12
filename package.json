@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "blockly": "^3.20200924.2",
     "next": "9.5.0",
     "react": "16.13.0",
     "react-dom": "16.13.0"
